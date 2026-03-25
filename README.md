@@ -1,9 +1,6 @@
-# Mar Sanchez - Data Portfolio
-Portafolio diseñado para mostrar mi evolución como Business Analyst, con proyectos que integran análisis de datos, visualización, métricas clave y documentación paso a paso.
-
 # 👋 Hola, soy Mar Sánchez
 
-Analista de Datos y Business Analyst con experiencia en Power BI, SQL, Google Sheets y Microsoft Azure.  
+Analista de Datos con experiencia en Power BI, SQL, Google Workspace y Microsoft Azure.  
 Me especializo en transformar datos en insights claros para apoyar la toma de decisiones.
 
 Este portafolio reúne mis proyectos de análisis, visualización y modelado de datos.
@@ -14,7 +11,7 @@ Este portafolio reúne mis proyectos de análisis, visualización y modelado de 
 
 - **Power BI** – Dashboards, modelado y DAX  
 - **SQL** – Consultas, modelado relacional, análisis  
-- **Google Sheets** – ETL ligera, dashboards rápidos  
+- **Google Workspace** – ETL ligera, dashboards rápidos  
 - **Microsoft Azure** – Servicios cloud básicos  
 - **Locker Studio** – Documentación paso a paso de procesos analíticos  
 
@@ -27,6 +24,7 @@ Exploración y visualización del mercado inmobiliario madrileño.
 Incluye limpieza de datos, modelado en Power BI y documentación.
 
 **Tecnologías:** Power BI, Power qwery,  DAX, Google Sheets.
+
 **Repositorio:** https://github.com/Mar-Sanchez-Godoy/Real-Estate-Madrid-Analysis
 
 ---
@@ -36,6 +34,7 @@ Un sistema completo de regresión lineal para organizar, limpiar y predecir seri
 Incluye Organización automática, limpieza inteligente, regresión lineal, predicciones, consulta de resultados y visualización de datos.
 
 **Tecnologias:** Agent Github, Claude Haiku 4.5, Python 3.8+, pandas, numpy, scikit-learn, matplotlib.
+
 **Repositorio:** https://github.com/Mar-Sanchez-Godoy/linear-regression
 
 ---
