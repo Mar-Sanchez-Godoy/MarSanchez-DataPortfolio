@@ -22,16 +22,25 @@ Este portafolio reúne mis proyectos de análisis, visualización y modelado de 
 
 ## 📂 Proyectos
 
-### 1. **Análisis de precios de propiedades en Madrid** *(en progreso)*
+### 1. **Análisis de precios de propiedades en Madrid**
 Exploración y visualización del mercado inmobiliario madrileño.  
-Incluye limpieza de datos, modelado en Power BI y documentación en Locker.
+Incluye limpieza de datos, modelado en Power BI y documentación.
 
-**Tecnologías:** Power BI, Google Sheets, SQL  
-**Repositorio:** _próximamente_
+**Tecnologías:** Power BI, Power qwery,  DAX, Google Sheets.
+**Repositorio:** https://github.com/Mar-Sanchez-Godoy/Real-Estate-Madrid-Analysis
 
 ---
 
-### 2. **SQL Case Study – Consultas analíticas**
+### 2. **Modelo de Aprendizaje automatico (Machine Learning - IA)**
+Un sistema completo de regresión lineal para organizar, limpiar y predecir series de tiempo de forma automática.
+Incluye Organización automática, limpieza inteligente, regresión lineal, predicciones, consulta de resultados y visualización de datos.
+
+**Tecnologias:** Agent Github, Claude Haiku 4.5, Python 3.8+, pandas, numpy, scikit-learn, matplotlib.
+**Repositorio:** https://github.com/Mar-Sanchez-Godoy/linear-regression
+
+---
+
+### 3. **SQL Case Study – Consultas analíticas**
 Conjunto de consultas SQL aplicadas a un caso realista de negocio.  
 Incluye KPIs, joins, agregaciones y análisis exploratorio.
 
@@ -40,7 +49,7 @@ Incluye KPIs, joins, agregaciones y análisis exploratorio.
 
 ---
 
-### 3. **Dashboard de rendimiento empresarial**
+### 4. **Dashboard de rendimiento empresarial**
 Dashboard interactivo con métricas clave de ventas, clientes y operaciones.
 
 **Tecnologías:** Power BI  
