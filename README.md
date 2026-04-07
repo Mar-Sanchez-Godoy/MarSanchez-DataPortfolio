@@ -10,22 +10,6 @@ Este portafolio reúne mis proyectos personales de análisis, visualización y m
 ---
 
 ## 🛠️ Tecnologías y herramientas
-  
-- Google Workspace – ETL ligera, automatización simple y dashboards rápidos orientados a negocio.
-
-- Power BI – Modelado de datos, DAX avanzado, diseño de dashboards y storytelling con KPIs.
-
-- Excel – Tablas dinámicas, análisis numérico, visualizaciones y prototipado rápido de métricas.
-
-- Microsoft Azure – Fundamentos de servicios cloud aplicados a análisis y despliegue ligero.
-
-- SQL – Consultas, modelado relacional, limpieza de datos y análisis exploratorio.
-
-- Looker Studio – Documentación visual y construcción de informes paso a paso para procesos analíticos.
-
-## 🛠️ Tecnologías y herramientas
-
-## 🛠️ Tecnologías y herramientas
 
 [![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?logo=google&logoColor=white)](https://workspace.google.com/)
 ETL ligera, automatización simple y dashboards rápidos.
