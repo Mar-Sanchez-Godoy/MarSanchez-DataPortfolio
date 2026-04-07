@@ -2,8 +2,7 @@
 
 ## Analista de Datos con experiencia en analisis de negocios. ##
 
-Utilizo herramientas como Power BI, SQL, Google Workspace, Microsoft 365 y Azure.  
-Me especializo en transformar datos en insights claros para apoyar la toma de decisiones.
+Utilizo herramientas como Power BI, SQL, Google Workspace, Microsoft 365 y Azure.  Me especializo en transformar datos en insights claros para apoyar la toma de decisiones.
 
 Este portafolio reúne mis proyectos personales de análisis, visualización y modelado de datos.
 
