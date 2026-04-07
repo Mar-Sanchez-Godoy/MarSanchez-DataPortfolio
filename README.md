@@ -1,4 +1,4 @@
-# Hola, soy Mar Sánchez
+# Hola, soy Mar Sánchez 🧑‍💻
 
 📊 Analista de Datos con experiencia en analisis de negocios.
 
@@ -21,7 +21,7 @@ Este portafolio reúne mis proyectos personales de análisis, visualización y m
 
 ## 📂 Proyectos
 
-### 1. **Análisis de precios de propiedades en Madrid**
+### 1. **Análisis de precios de propiedades en Madrid 🔍**
 Exploración y visualización del mercado inmobiliario madrileño.  
 Incluye limpieza de datos, modelado en Power BI y documentación.
 
@@ -31,7 +31,7 @@ Incluye limpieza de datos, modelado en Power BI y documentación.
 
 ---
 
-### 2. 4. Modelo de KPIs – Impacto de la Automatización con IA
+### 2. **Modelo de KPIs – Impacto de la Automatización con IA 📊**
 Diseño y análisis de un modelo de indicadores clave para medir el impacto operativo y financiero de implementar automatizaciones basadas en IA en una empresa de más de 200 empleados.
 
 Incluye simulación de escenarios, cálculo de métricas, documentación del proceso y visualización en Power BI.
@@ -41,7 +41,7 @@ Repositorio: https://github.com/Mar-Sanchez-Godoy/Modelo-KPIs
 
 ---
 
-### 3. **Modelo de Aprendizaje automatico (Machine Learning - IA)**
+### 3. **Modelo de Aprendizaje automatico (Machine Learning - IA) 🤖**
 Un sistema completo de regresión lineal para organizar, limpiar y predecir series de tiempo de forma automática.
 Incluye Organización automática, limpieza inteligente, regresión lineal, predicciones, consulta de resultados y visualización de datos.
 
@@ -51,7 +51,16 @@ Incluye Organización automática, limpieza inteligente, regresión lineal, pred
 
 ---
 
-### 4. **PROXIMAMENTE: SQL Case Study – Consultas analíticas**
+### 4. **FIA – Finanzas con IA 📱**
+Aplicación diseñada para gestionar y analizar finanzas personales mediante automatizaciones y cálculos inteligentes.
+Incluye categorización automática de gastos, visualización de métricas clave y documentación del proceso.
+
+Tecnologías: Google AI Studio, Python, Google Sheets, Power BI
+Repositorio: https://github.com/Mar-Sanchez-Godoy/Fia---Finanzas-IA
+
+---
+
+### 5. **PROXIMAMENTE: SQL Case Study – Consultas analíticas 🧮**
 Conjunto de consultas SQL aplicadas a un caso realista de negocio.  
 Incluye KPIs, joins, agregaciones y análisis exploratorio.
 
@@ -69,6 +78,6 @@ Incluye KPIs, joins, agregaciones y análisis exploratorio.
 
 ---
 
-### ✨ Sobre este portafolio
+### Sobre este portafolio
 Mi objetivo es mostrar proyectos claros, reproducibles y orientados a negocio.  
 Cada repositorio incluye dataset, documentación y visualizaciones.
