@@ -29,7 +29,17 @@ Incluye limpieza de datos, modelado en Power BI y documentación.
 
 ---
 
-### 2. **Modelo de Aprendizaje automatico (Machine Learning - IA)**
+### 2. 4. Modelo de KPIs – Impacto de la Automatización con IA
+Diseño y análisis de un modelo de indicadores clave para medir el impacto operativo y financiero de implementar automatizaciones basadas en IA en una empresa de más de 200 empleados.
+
+Incluye simulación de escenarios, cálculo de métricas, documentación del proceso y visualización en Power BI.
+
+Tecnologías: Power BI, Power Query, DAX, Google Sheets
+Repositorio: https://github.com/Mar-Sanchez-Godoy/Modelo-KPIs
+
+---
+
+### 3. **Modelo de Aprendizaje automatico (Machine Learning - IA)**
 Un sistema completo de regresión lineal para organizar, limpiar y predecir series de tiempo de forma automática.
 Incluye Organización automática, limpieza inteligente, regresión lineal, predicciones, consulta de resultados y visualización de datos.
 
@@ -39,20 +49,14 @@ Incluye Organización automática, limpieza inteligente, regresión lineal, pred
 
 ---
 
-### 3. **SQL Case Study – Consultas analíticas**
+### 4. **PROXIMAMENTE: SQL Case Study – Consultas analíticas**
 Conjunto de consultas SQL aplicadas a un caso realista de negocio.  
 Incluye KPIs, joins, agregaciones y análisis exploratorio.
 
 **Tecnologías:** SQL  
 **Repositorio:** _próximamente_
 
----
 
-### 4. **Dashboard de rendimiento empresarial**
-Dashboard interactivo con métricas clave de ventas, clientes y operaciones.
-
-**Tecnologías:** Power BI  
-**Repositorio:** _próximamente_
 
 ---
 
