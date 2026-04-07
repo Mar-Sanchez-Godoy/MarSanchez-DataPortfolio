@@ -23,6 +23,14 @@ Este portafolio reúne mis proyectos personales de análisis, visualización y m
 
 - Looker Studio – Documentación visual y construcción de informes paso a paso para procesos analíticos.
 
+## 🛠️ Tecnologías y herramientas
+
+- [🟦 Google Workspace](https://workspace.google.com/) – ETL ligera, automatización simple y dashboards rápidos.  
+- [📊 Power BI](https://powerbi.microsoft.com/) – Modelado de datos, DAX avanzado y storytelling.  
+- [📗 Excel](https://www.microsoft.com/microsoft-365/excel) – Tablas dinámicas, análisis y prototipado rápido.  
+- [☁️ Microsoft Azure](https://azure.microsoft.com/) – Fundamentos cloud aplicados a análisis.  
+- [🛢️ SQL](https://www.mysql.com/) – Consultas, modelado relacional y análisis exploratorio.  
+- [📘 Looker Studio](https://lookerstudio.google.com/) – Informes
 ---
 
 ## 📂 Proyectos
