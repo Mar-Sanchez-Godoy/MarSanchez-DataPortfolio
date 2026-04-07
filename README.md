@@ -25,13 +25,26 @@ Este portafolio reúne mis proyectos personales de análisis, visualización y m
 
 ## 🛠️ Tecnologías y herramientas
 
-- [🟦 Google Workspace](https://workspace.google.com/) – ETL ligera, automatización simple y dashboards rápidos.  
-- [📊 Power BI](https://powerbi.microsoft.com/) – Modelado de datos, DAX avanzado y storytelling.  
-- [📗 Excel](https://www.microsoft.com/microsoft-365/excel) – Tablas dinámicas, análisis y prototipado rápido.  
-- [☁️ Microsoft Azure](https://azure.microsoft.com/) – Fundamentos cloud aplicados a análisis.  
-- [🛢️ SQL](https://www.mysql.com/) – Consultas, modelado relacional y análisis exploratorio.  
-- [📘 Looker Studio](https://lookerstudio.google.com/) – Informes
----
+## 🛠️ Tecnologías y herramientas
+
+[![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?logo=google&logoColor=white)](https://workspace.google.com/)
+ETL ligera, automatización simple y dashboards rápidos.
+
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+Modelado de datos, DAX avanzado y storytelling.
+
+[![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+Tablas dinámicas, análisis y prototipado rápido.
+
+[![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+Fundamentos cloud aplicados a análisis.
+
+[![SQL](https://img.shields.io/badge/SQL-CC2927?logo=databricks&logoColor=white)](https://www.mysql.com/)
+Consultas, modelado relacional y análisis exploratorio.
+
+[![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?logo=google&logoColor=white)](https://lookerstudio.google.com/)
+Informes y documentación visual.
+
 
 ## 📂 Proyectos
 
