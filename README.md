@@ -8,7 +8,7 @@ Este portafolio reúne algunos de mis proyectos personales de análisis, visuali
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 [![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?logo=google&logoColor=white)](https://workspace.google.com/)
 ETL ligera, automatización simple y dashboards rápidos.
