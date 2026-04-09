@@ -81,7 +81,7 @@ Repositorio: https://github.com/Mar-Sanchez-Godoy/Fia---Finanzas-IA
 
 ---
 
-### 6. **PROXIMAMENTE: SQL Case Study – Consultas analíticas 🧮**
+### 6. **PROXIMAMENTE: SQL Case Study – Consultas analíticas **
 Conjunto de consultas SQL aplicadas a un caso realista de negocio.  
 Incluye KPIs, joins, agregaciones y análisis exploratorio.
 
