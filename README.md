@@ -51,7 +51,18 @@ Repositorio: https://github.com/Mar-Sanchez-Godoy/Modelo-KPIs
 
 ---
 
-### 3. **Modelo de Aprendizaje automatico (Machine Learning - IA) 🤖**
+### **3. Market Analysis with Computer Vision 🛒🤖**
+Modelo financiero y operativo para un supermercado en expansión en Madrid, evaluando el impacto de implementar Azure Vision para mejorar la eficiencia en tienda, reducir mermas y aumentar ingresos.
+
+Incluye simulación de escenarios, modelización de KPIs, análisis de palancas de mejora, documentación completa y visualizaciones del impacto económico.
+
+Tecnologías: Google Sheets, Azure Vision (Computer Vision), Microsoft Copilot, Modelización financiera.
+
+Repositorio: https://github.com/Mar-Sanchez-Godoy/Market-analisis-with-Computer-Vision
+
+---
+
+### 4. **Modelo de Aprendizaje automatico (Machine Learning - IA) 🤖**
 Un sistema completo de regresión lineal para organizar, limpiar y predecir series de tiempo de forma automática.
 Incluye Organización automática, limpieza inteligente, regresión lineal, predicciones, consulta de resultados y visualización de datos.
 
@@ -61,7 +72,7 @@ Incluye Organización automática, limpieza inteligente, regresión lineal, pred
 
 ---
 
-### 4. **FIA – Finanzas con IA 📱**
+### 5. **FIA – Finanzas con IA 📱**
 Aplicación diseñada para gestionar y analizar finanzas personales mediante automatizaciones y cálculos inteligentes.
 Incluye categorización automática de gastos, visualización de métricas clave y documentación del proceso.
 
@@ -70,7 +81,7 @@ Repositorio: https://github.com/Mar-Sanchez-Godoy/Fia---Finanzas-IA
 
 ---
 
-### 5. **PROXIMAMENTE: SQL Case Study – Consultas analíticas 🧮**
+### 6. **PROXIMAMENTE: SQL Case Study – Consultas analíticas 🧮**
 Conjunto de consultas SQL aplicadas a un caso realista de negocio.  
 Incluye KPIs, joins, agregaciones y análisis exploratorio.
 
