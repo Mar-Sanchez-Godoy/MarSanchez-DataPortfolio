@@ -42,7 +42,7 @@ Incluye limpieza de datos, modelado en Power BI y documentación.
 
 ---
 
-### 2. ** 📘 Modelo de KPIs – Impacto de la Automatización con IA 📊**
+### 2. **📘 Modelo de KPIs – Impacto de la Automatización con IA 📊**
 Diseño y análisis de un modelo de indicadores clave para medir el impacto operativo y financiero de implementar automatizaciones basadas en IA en una empresa de más de 200 empleados.
 
 Incluye simulación de escenarios, cálculo de métricas, documentación del proceso y visualización en Power BI.
@@ -53,7 +53,7 @@ Incluye simulación de escenarios, cálculo de métricas, documentación del pro
 
 ---
 
-### **3.  📘 Market Analysis with Computer Vision 🛒🤖**
+### 3. **📘 Market Analysis with Computer Vision 🛒🤖**
 Modelo financiero y operativo para un supermercado en expansión en Madrid, evaluando el impacto de implementar Azure Vision para mejorar la eficiencia en tienda, reducir mermas y aumentar ingresos.
 
 Incluye simulación de escenarios, modelización de KPIs, análisis de palancas de mejora, documentación completa y visualizaciones del impacto económico.
@@ -64,7 +64,7 @@ Incluye simulación de escenarios, modelización de KPIs, análisis de palancas 
 
 ---
 
-### 4. **  📘 Modelo de Aprendizaje automatico (Machine Learning - IA) 🤖**
+### 4. **📘 Modelo de Aprendizaje automatico (Machine Learning - IA) 🤖**
 Un sistema completo de regresión lineal para organizar, limpiar y predecir series de tiempo de forma automática.
 Incluye Organización automática, limpieza inteligente, regresión lineal, predicciones, consulta de resultados y visualización de datos.
 
@@ -74,7 +74,7 @@ Incluye Organización automática, limpieza inteligente, regresión lineal, pred
 
 ---
 
-### 5. **  📘 FIA – Finanzas con IA 📱**
+### 5. **📘 FIA – Finanzas con IA 📱**
 Aplicación diseñada para gestionar y analizar finanzas personales mediante automatizaciones y cálculos inteligentes.
 Incluye categorización automática de gastos, visualización de métricas clave y documentación del proceso.
 
@@ -84,7 +84,7 @@ Incluye categorización automática de gastos, visualización de métricas clave
 
 ---
 
-### 6. ** 🖊️ PROXIMAMENTE: SQL Case Study – Consultas analíticas **
+### 6. **🖊️ PROXIMAMENTE: SQL Case Study – Consultas analíticas **
 Conjunto de consultas SQL aplicadas a un caso realista de negocio.  
 Incluye KPIs, joins, agregaciones y análisis exploratorio.
 
