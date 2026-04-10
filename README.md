@@ -30,7 +30,7 @@ Consultas, modelado relacional y análisis exploratorio.
 Informes y documentación visual.
 
 
-## 📂 Proyectos
+##  Proyectos 📘
 
 ### 1. **Análisis de precios de propiedades en Madrid 🔍**
 Exploración y visualización del mercado inmobiliario madrileño.  
