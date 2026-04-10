@@ -12,16 +12,16 @@ Utilizo herramientas como Power BI, SQL, Google Workspace, Microsoft 365 y Azure
 ## Tecnologías y herramientas
 
 [![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?logo=google&logoColor=white)](https://workspace.google.com/)
-ETL ligera, automatización simple y dashboards rápidos.
+Optimización de flujos de trabajo (ETL ligera), automatización simple y dashboards gráficos eficientes.
 
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-Modelado de datos, DAX avanzado y storytelling.
+Limpieza, modelado de datos, DAX, gráficos para apoyo de decisiones.
 
 [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
-Tablas dinámicas, análisis y prototipado rápido.
+Tablas dinámicas, análisis y prototipado de modelos.
 
 [![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-Fundamentos cloud aplicados a análisis.
+Implementación de IA en la nube, aplicados a análisis estadísticos y proyecciones.
 
 [![SQL](https://img.shields.io/badge/SQL-CC2927?logo=databricks&logoColor=white)](https://www.mysql.com/)
 Consultas, modelado relacional y análisis exploratorio.
