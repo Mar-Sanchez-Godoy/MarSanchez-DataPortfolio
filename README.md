@@ -46,8 +46,8 @@ Diseño y análisis de un modelo de indicadores clave para medir el impacto oper
 
 Incluye simulación de escenarios, cálculo de métricas, documentación del proceso y visualización en Power BI.
 
-Tecnologías: Power BI, Power Query, DAX, Google Sheets
-Repositorio: https://github.com/Mar-Sanchez-Godoy/Modelo-KPIs
+**Tecnologías:** Power BI, Power Query, DAX, Google Sheets
+**Repositorio:** https://github.com/Mar-Sanchez-Godoy/Modelo-KPIs
 
 ---
 
@@ -56,9 +56,9 @@ Modelo financiero y operativo para un supermercado en expansión en Madrid, eval
 
 Incluye simulación de escenarios, modelización de KPIs, análisis de palancas de mejora, documentación completa y visualizaciones del impacto económico.
 
-Tecnologías: Google Sheets, Azure Vision (Computer Vision), Microsoft Copilot, Modelización financiera.
+**Tecnologías:** Google Sheets, Azure Vision (Computer Vision), Microsoft Copilot, Modelización financiera.
 
-Repositorio: https://github.com/Mar-Sanchez-Godoy/Market-analisis-with-Computer-Vision
+**Repositorio:** https://github.com/Mar-Sanchez-Godoy/Market-analisis-with-Computer-Vision
 
 ---
 
@@ -76,8 +76,8 @@ Incluye Organización automática, limpieza inteligente, regresión lineal, pred
 Aplicación diseñada para gestionar y analizar finanzas personales mediante automatizaciones y cálculos inteligentes.
 Incluye categorización automática de gastos, visualización de métricas clave y documentación del proceso.
 
-Tecnologías: Google AI Studio, Python, Google Sheets, Power BI
-Repositorio: https://github.com/Mar-Sanchez-Godoy/Fia---Finanzas-IA
+**Tecnologías:** Google AI Studio, Python, Google Sheets, Power BI
+**Repositorio:** https://github.com/Mar-Sanchez-Godoy/Fia---Finanzas-IA
 
 ---
 
