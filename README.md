@@ -32,7 +32,7 @@ Informes y documentación visual.
 
 ## Proyectos 
 
-### 1. ** 📘 Análisis de precios de propiedades en Madrid**
+### 1.  **📘 Análisis de precios de propiedades en Madrid**
 Exploración y visualización del mercado inmobiliario madrileño.  
 Incluye limpieza de datos, modelado en Power BI y documentación.
 
