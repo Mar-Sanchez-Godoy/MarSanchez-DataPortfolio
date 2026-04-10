@@ -84,7 +84,17 @@ Incluye categorización automática de gastos, visualización de métricas clave
 
 ---
 
-### 6. 🖊️ **PROXIMAMENTE: SQL Case Study – Consultas analíticas**
+### 6. **📘 Análisis de Población de Valdoria 🏙️
+Modelado analítico de una ciudad ficticia mediante generación de datos sintéticos, simulación demográfica y estimación económica. Enfoque BI aplicado a worldbuilding con flujos de trabajo asistidos por IA.
+El repositorio documenta todo el proceso: traducción al inglés, prompts utilizados, razonamiento matemático, generación de datasets, visualizaciones y análisis técnico paso a paso.
+
+**Tecnologías:** ChatGPT, Copilot.
+**Repositorio:** https://github.com/Mar-Sanchez-Godoy/Population_Analysis_of_Valdoria
+
+
+
+
+### 🖊️ **PROXIMAMENTE: SQL Case Study – Consultas analíticas**
 Conjunto de consultas SQL aplicadas a un caso realista de negocio.  
 Incluye KPIs, joins, agregaciones y análisis exploratorio.
 
