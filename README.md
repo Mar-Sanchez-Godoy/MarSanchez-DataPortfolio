@@ -150,6 +150,20 @@ Utilizo herramientas como Power BI, SQL, Google Workspace, Microsoft 365 y Azure
 
 ---
 
+Lo que Aporto
+Transformar datos en bruto en insights accionables para el negocio
+
+Aplicar IA y automatización para mejorar la eficiencia operativa
+
+Construir KPIs y dashboards alineados con objetivos estratégicos
+
+Mentalidad analítica sólida + comprensión del negocio
+
+Aprendizaje rápido, enfocado en entregar valor desde el primer día
+
+--
+
+
 ## 🛠️ Tecnologías y herramientas
 
 [![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?logo=google&logoColor=white)](https://workspace.google.com/)
@@ -173,7 +187,7 @@ Informes y documentación visual.
 
 ## 📂 Proyectos 
 
-### 1.  **📘 Análisis de precios de propiedades en Madrid 🏙️**
+### 1.  **📘 Análisis de precios de propiedades en Madrid**
 Exploración y visualización del mercado inmobiliario madrileño.  
 Incluye limpieza de datos, modelado en Power BI y documentación.
 
@@ -183,7 +197,7 @@ Incluye limpieza de datos, modelado en Power BI y documentación.
 
 ---
 
-### 2. **📘 Modelo de KPIs – Impacto de la Automatización con IA 📊**
+### 2. **📘 Modelo de KPIs – Impacto de la Automatización con IA**
 Diseño y análisis de un modelo de indicadores clave para medir el impacto operativo y financiero de implementar automatizaciones basadas en IA en una empresa de más de 200 empleados.
 
 Incluye simulación de escenarios, cálculo de métricas, documentación del proceso y visualización en Power BI.
@@ -194,7 +208,7 @@ Incluye simulación de escenarios, cálculo de métricas, documentación del pro
 
 ---
 
-### 3. **📘 Market Analysis with Computer Vision 🛒🤖**
+### 3. **📘 Market Analysis with Computer Vision**
 Modelo financiero y operativo para un supermercado en expansión en Madrid, evaluando el impacto de implementar Azure Vision para mejorar la eficiencia en tienda, reducir mermas y aumentar ingresos.
 
 Incluye simulación de escenarios, modelización de KPIs, análisis de palancas de mejora, documentación completa y visualizaciones del impacto económico.
@@ -205,7 +219,7 @@ Incluye simulación de escenarios, modelización de KPIs, análisis de palancas 
 
 ---
 
-### 4. **📘 Modelo de Aprendizaje automatico (Machine Learning - IA) 🤖**
+### 4. **📘 Modelo de Aprendizaje automatico (Machine Learning - IA)**
 Un sistema completo de regresión lineal para organizar, limpiar y predecir series de tiempo de forma automática.
 Incluye Organización automática, limpieza inteligente, regresión lineal, predicciones, consulta de resultados y visualización de datos.
 
@@ -215,7 +229,7 @@ Incluye Organización automática, limpieza inteligente, regresión lineal, pred
 
 ---
 
-### 5. **📘 FIA – Finanzas con IA 📱**
+### 5. **📘 FIA – Finanzas con IA**
 Aplicación diseñada para gestionar y analizar finanzas personales mediante automatizaciones y cálculos inteligentes.
 Incluye categorización automática de gastos, visualización de métricas clave y documentación del proceso.
 
@@ -225,7 +239,7 @@ Incluye categorización automática de gastos, visualización de métricas clave
 
 ---
 
-### 6. **📘 Análisis de Población de Valdoria 🏙️
+### 6. **📘 Análisis de Población de Valdoria**
 Modelado analítico de una ciudad ficticia mediante generación de datos sintéticos, simulación demográfica y estimación económica. Enfoque BI aplicado a worldbuilding con flujos de trabajo asistidos por IA.
 El repositorio documenta todo el proceso: traducción al inglés, prompts utilizados, razonamiento matemático, generación de datasets, visualizaciones y análisis técnico paso a paso.
 
@@ -256,3 +270,5 @@ Incluye KPIs, joins, agregaciones y análisis exploratorio.
 ### Sobre este portafolio
 Mi objetivo es mostrar proyectos claros, reproducibles y orientados a negocio.  
 Cada repositorio incluye dataset, documentación y visualizaciones.
+
+*Actualmente en búsqueda de roles como Data Analyst / BI en Madrid — listo para aportar desde el primer día.*
