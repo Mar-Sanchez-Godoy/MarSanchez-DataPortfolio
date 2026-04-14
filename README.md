@@ -188,7 +188,7 @@ Informes y documentación visual.
 
 ## Proyectos 
 
-### 1.  **📘 Análisis de precios de propiedades en Madrid**
+### 📘 Análisis de precios de propiedades en Madrid
 Exploración y visualización del mercado inmobiliario madrileño.  
 Incluye limpieza de datos, modelado en Power BI y documentación.
 
@@ -198,7 +198,7 @@ Incluye limpieza de datos, modelado en Power BI y documentación.
 
 ---
 
-### 2. **📘 Modelo de KPIs – Impacto de la Automatización con IA**
+### 📘 Modelo de KPIs – Impacto de la Automatización con IA
 Diseño y análisis de un modelo de indicadores clave para medir el impacto operativo y financiero de implementar automatizaciones basadas en IA en una empresa de más de 200 empleados.
 
 Incluye simulación de escenarios, cálculo de métricas, documentación del proceso y visualización en Power BI.
@@ -209,7 +209,7 @@ Incluye simulación de escenarios, cálculo de métricas, documentación del pro
 
 ---
 
-### 3. **📘 Market Analysis with Computer Vision**
+### 📘 Market Analysis with Computer Vision
 Modelo financiero y operativo para un supermercado en expansión en Madrid, evaluando el impacto de implementar Azure Vision para mejorar la eficiencia en tienda, reducir mermas y aumentar ingresos.
 
 Incluye simulación de escenarios, modelización de KPIs, análisis de palancas de mejora, documentación completa y visualizaciones del impacto económico.
@@ -220,7 +220,7 @@ Incluye simulación de escenarios, modelización de KPIs, análisis de palancas 
 
 ---
 
-### 4. **📘 Modelo de Aprendizaje automatico (Machine Learning - IA)**
+### 📘 Modelo de Aprendizaje automatico (Machine Learning - IA)
 Un sistema completo de regresión lineal para organizar, limpiar y predecir series de tiempo de forma automática.
 Incluye Organización automática, limpieza inteligente, regresión lineal, predicciones, consulta de resultados y visualización de datos.
 
@@ -230,7 +230,7 @@ Incluye Organización automática, limpieza inteligente, regresión lineal, pred
 
 ---
 
-### 5. **📘 FIA – Finanzas con IA**
+### 📘 FIA – Finanzas con IA
 Aplicación diseñada para gestionar y analizar finanzas personales mediante automatizaciones y cálculos inteligentes.
 Incluye categorización automática de gastos, visualización de métricas clave y documentación del proceso.
 
@@ -240,7 +240,7 @@ Incluye categorización automática de gastos, visualización de métricas clave
 
 ---
 
-### 6. **📘 Análisis de Población de Valdoria**
+### 📘 Análisis de Población de Valdoria
 Modelado analítico de una ciudad ficticia mediante generación de datos sintéticos, simulación demográfica y estimación económica. Enfoque BI aplicado a worldbuilding con flujos de trabajo asistidos por IA.
 El repositorio documenta todo el proceso: traducción al inglés, prompts utilizados, razonamiento matemático, generación de datasets, visualizaciones y análisis técnico paso a paso.
 
