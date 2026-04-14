@@ -8,7 +8,7 @@ Specialized in **data analysis, business intelligence, and AI-driven insights**,
 
 ---
 
-## 🚀 What I Bring
+## What I Bring
 
 - Transform raw data into **actionable business insights**
 - Apply **AI & automation** to improve operational efficiency
@@ -39,7 +39,7 @@ Visual reporting and documentation.
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
 ### 📘 Real Estate Price Analysis – Madrid 
 End-to-end analysis of the Madrid housing market.
@@ -48,7 +48,7 @@ End-to-end analysis of the Madrid housing market.
 - Interactive Power BI dashboard  
 - Market insights for decision-making  
 
-🔗 https://github.com/Mar-Sanchez-Godoy/Real-Estate-Madrid-Analysis
+https://github.com/Mar-Sanchez-Godoy/Real-Estate-Madrid-Analysis
 
 ---
 
@@ -59,7 +59,7 @@ Business-focused KPI system to evaluate **ROI and operational impact of AI autom
 - Cost-benefit analysis  
 - Executive-level dashboard  
 
-🔗 https://github.com/Mar-Sanchez-Godoy/Modelo-KPIs
+https://github.com/Mar-Sanchez-Godoy/Modelo-KPIs
 
 ---
 
@@ -70,7 +70,7 @@ Financial model for implementing **AI (Azure Vision)** in retail.
 - Loss reduction analysis  
 - KPI-driven strategy  
 
-🔗 https://github.com/Mar-Sanchez-Godoy/Market-analisis-with-Computer-Vision
+https://github.com/Mar-Sanchez-Godoy/Market-analisis-with-Computer-Vision
 
 ---
 
@@ -92,7 +92,7 @@ Smart system for **automated financial tracking and insights**.
 - KPI visualization  
 - Process automation  
 
-🔗 https://github.com/Mar-Sanchez-Godoy/Fia---Finanzas-IA
+https://github.com/Mar-Sanchez-Godoy/Fia---Finanzas-IA
 
 ---
 
@@ -119,7 +119,7 @@ Real-world business case solved with SQL (KPIs, joins, aggregations).
 
 ---
 
-## 🎯 About This Portfolio
+## About This Portfolio
 
 This portfolio is built to demonstrate **real, business-oriented problem solving**.
 
@@ -131,7 +131,7 @@ Each project includes:
 
 ---
 
-💡 *Currently seeking Data Analyst / BI roles in Madrid — ready to contribute from day one.*
+*Currently seeking Data Analyst / BI roles in Madrid — ready to contribute from day one.*
 
 # Hola, soy Mar Sánchez 🧑‍💻
 
@@ -141,10 +141,11 @@ Este portafolio reúne algunos de mis proyectos personales de análisis, visuali
 
 Utilizo herramientas como Power BI, SQL, Google Workspace, Microsoft 365 y Azure.  Me especializo en transformar datos en insights claros para apoyar la toma de decisiones.
 
+📍 Ubicado en Madrid | Abierto a oportunidades
 
 ---
 
-## Tecnologías y herramientas
+## 🛠️ Tecnologías y herramientas
 
 [![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?logo=google&logoColor=white)](https://workspace.google.com/)
 Optimización de flujos de trabajo (ETL ligera), automatización simple y dashboards gráficos eficientes.
@@ -165,7 +166,7 @@ Consultas, modelado relacional y análisis exploratorio.
 Informes y documentación visual.
 
 
-## Proyectos 
+## 📂 Proyectos 
 
 ### 1.  **📘 Análisis de precios de propiedades en Madrid 🏙️**
 Exploración y visualización del mercado inmobiliario madrileño.  
