@@ -133,6 +133,12 @@ Each project includes:
 
 *Currently seeking Data Analyst / BI roles in Madrid — ready to contribute from day one.*
 
+-- 
+
+# CASTELLANO 
+
+-- 
+
 # Hola, soy Mar Sánchez 🧑‍💻
 
 ## Analista de Datos con experiencia en análisis de negocios. ##
