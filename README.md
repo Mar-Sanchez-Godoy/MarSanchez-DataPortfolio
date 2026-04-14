@@ -151,6 +151,7 @@ Utilizo herramientas como Power BI, SQL, Google Workspace, Microsoft 365 y Azure
 ---
 
 Lo que Aporto
+
 Transformar datos en bruto en insights accionables para el negocio
 
 Aplicar IA y automatización para mejorar la eficiencia operativa
@@ -164,7 +165,7 @@ Aprendizaje rápido, enfocado en entregar valor desde el primer día
 --
 
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 [![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?logo=google&logoColor=white)](https://workspace.google.com/)
 Optimización de flujos de trabajo (ETL ligera), automatización simple y dashboards gráficos eficientes.
@@ -185,7 +186,7 @@ Consultas, modelado relacional y análisis exploratorio.
 Informes y documentación visual.
 
 
-## 📂 Proyectos 
+## Proyectos 
 
 ### 1.  **📘 Análisis de precios de propiedades en Madrid**
 Exploración y visualización del mercado inmobiliario madrileño.  
