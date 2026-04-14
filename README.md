@@ -18,7 +18,7 @@ Specialized in **data analysis, business intelligence, and AI-driven insights**,
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 [![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?logo=google&logoColor=white)](https://workspace.google.com/)
 Workflow optimization (light ETL), simple automation, and efficient graphical dashboards.
 
@@ -39,7 +39,7 @@ Visual reporting and documentation.
 
 ---
 
-## 📂 Projects
+## Projects
 
 ### 📘 Real Estate Price Analysis – Madrid 
 End-to-end analysis of the Madrid housing market.
@@ -112,7 +112,7 @@ Real-world business case solved with SQL (KPIs, joins, aggregations).
 
 ---
 
-## 📫 Contact
+## Contact
 
 - LinkedIn: https://www.linkedin.com/in/mar-sanchez-g/  
 - Email: marsanchez095@gmail.com  
