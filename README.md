@@ -1,3 +1,138 @@
+# Hi, I'm Mar Sánchez 🧑‍💻  
+### Data Analyst | Business Analytics | AI & BI
+
+I help businesses **turn data into decisions**.  
+Specialized in **data analysis, business intelligence, and AI-driven insights**, with a strong focus on **real-world impact and efficiency improvements**.
+
+📍 Based in Madrid | Open to opportunities
+
+---
+
+## 🚀 What I Bring
+
+- Transform raw data into **actionable business insights**
+- Apply **AI & automation** to improve operational efficiency
+- Build **KPIs and dashboards** aligned with business goals
+- Strong analytical mindset + business understanding
+- Fast learner, focused on **delivering value quickly**
+
+---
+
+## 🛠️ Tech Stack
+[![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?logo=google&logoColor=white)](https://workspace.google.com/)
+Workflow optimization (light ETL), simple automation, and efficient graphical dashboards.
+
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+Power BI (cleaning, DAX, Data Modeling), decision‑support charts.
+
+[![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+Pivot tables, analysis, and model prototyping.
+
+[![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+Cloud‑based AI implementation applied to statistical analysis and forecasting.
+
+[![SQL](https://img.shields.io/badge/SQL-CC2927?logo=databricks&logoColor=white)](https://www.mysql.com/)
+Queries, relational modeling, and exploratory analysis.
+
+[![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?logo=google&logoColor=white)](https://lookerstudio.google.com/)
+Visual reporting and documentation.
+
+---
+
+## 📂 Featured Projects
+
+### 📘 Real Estate Price Analysis – Madrid 
+End-to-end analysis of the Madrid housing market.
+
+- Data cleaning & transformation  
+- Interactive Power BI dashboard  
+- Market insights for decision-making  
+
+🔗 https://github.com/Mar-Sanchez-Godoy/Real-Estate-Madrid-Analysis
+
+---
+
+### 📘 KPI Model – AI Automation Impact
+Business-focused KPI system to evaluate **ROI and operational impact of AI automation**.
+
+- Scenario simulation  
+- Cost-benefit analysis  
+- Executive-level dashboard  
+
+🔗 https://github.com/Mar-Sanchez-Godoy/Modelo-KPIs
+
+---
+
+### 📘 Market Analysis with Computer Vision
+Financial model for implementing **AI (Azure Vision)** in retail.
+
+- Revenue impact estimation  
+- Loss reduction analysis  
+- KPI-driven strategy  
+
+🔗 https://github.com/Mar-Sanchez-Godoy/Market-analisis-with-Computer-Vision
+
+---
+
+### 📘 Machine Learning System – Time Series Prediction
+Automated pipeline for **data cleaning + prediction (Linear Regression)**.
+
+- End-to-end ML workflow  
+- Data preprocessing automation  
+- Predictive analytics  
+
+https://github.com/Mar-Sanchez-Godoy/linear-regression
+
+---
+
+### 📘 FIA – AI Personal Finance App
+Smart system for **automated financial tracking and insights**.
+
+- Expense categorization  
+- KPI visualization  
+- Process automation  
+
+🔗 https://github.com/Mar-Sanchez-Godoy/Fia---Finanzas-IA
+
+---
+
+### 📘 Valdoria Population Analysis
+Synthetic data + BI modeling applied to a fictional city.
+
+- Data generation & simulation  
+- Economic & demographic analysis  
+- Full technical documentation  
+
+https://github.com/Mar-Sanchez-Godoy/Population_Analysis_of_Valdoria
+
+---
+
+### 🖊️ Coming Soon: SQL Case Study
+Real-world business case solved with SQL (KPIs, joins, aggregations).
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/mar-sanchez-g/  
+- Email: marsanchez095@gmail.com  
+
+---
+
+## 🎯 About This Portfolio
+
+This portfolio is built to demonstrate **real, business-oriented problem solving**.
+
+Each project includes:
+- Clear objectives  
+- Structured data workflows  
+- Business insights  
+- Reproducible results  
+
+---
+
+💡 *Currently seeking Data Analyst / BI roles in Madrid — ready to contribute from day one.*
+
 # Hola, soy Mar Sánchez 🧑‍💻
 
 ## Analista de Datos con experiencia en análisis de negocios. ##
