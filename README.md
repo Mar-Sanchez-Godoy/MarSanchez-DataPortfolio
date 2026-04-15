@@ -150,7 +150,7 @@ Utilizo herramientas como Power BI, SQL, Google Workspace, Microsoft 365 y Azure
 
 ---
 
-Lo que Aporto
+## Lo que Aporto
 
 Transformar datos en bruto en insights accionables para el negocio
 
