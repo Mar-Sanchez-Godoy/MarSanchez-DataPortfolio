@@ -41,7 +41,7 @@ Visual reporting and documentation.
 
 ## Projects
 
-### 📘 Real Estate Price Analysis – Madrid 
+### Real Estate Price Analysis – Madrid 
 End-to-end analysis of the Madrid housing market.
 
 - Data cleaning & transformation  
@@ -52,7 +52,7 @@ https://github.com/Mar-Sanchez-Godoy/Real-Estate-Madrid-Analysis
 
 ---
 
-### 📘 KPI Model – AI Automation Impact
+### KPI Model – AI Automation Impact
 Business-focused KPI system to evaluate **ROI and operational impact of AI automation**.
 
 - Scenario simulation  
@@ -63,7 +63,7 @@ https://github.com/Mar-Sanchez-Godoy/Modelo-KPIs
 
 ---
 
-### 📘 Market Analysis with Computer Vision
+### Market Analysis with Computer Vision
 Financial model for implementing **AI (Azure Vision)** in retail.
 
 - Revenue impact estimation  
@@ -74,7 +74,7 @@ https://github.com/Mar-Sanchez-Godoy/Market-analisis-with-Computer-Vision
 
 ---
 
-### 📘 Machine Learning System – Time Series Prediction
+### Machine Learning System – Time Series Prediction
 Automated pipeline for **data cleaning + prediction (Linear Regression)**.
 
 - End-to-end ML workflow  
@@ -85,7 +85,7 @@ https://github.com/Mar-Sanchez-Godoy/linear-regression
 
 ---
 
-### 📘 FIA – AI Personal Finance App
+### FIA – AI Personal Finance App
 Smart system for **automated financial tracking and insights**.
 
 - Expense categorization  
@@ -96,7 +96,7 @@ https://github.com/Mar-Sanchez-Godoy/Fia---Finanzas-IA
 
 ---
 
-### 📘 Valdoria Population Analysis
+### Valdoria Population Analysis
 Synthetic data + BI modeling applied to a fictional city.
 
 - Data generation & simulation  
@@ -188,7 +188,7 @@ Informes y documentación visual.
 
 ## Proyectos 
 
-### 📘 Análisis de precios de propiedades en Madrid
+### Análisis de precios de propiedades en Madrid
 Exploración y visualización del mercado inmobiliario madrileño.  
 Incluye limpieza de datos, modelado en Power BI y documentación.
 
@@ -198,7 +198,7 @@ Incluye limpieza de datos, modelado en Power BI y documentación.
 
 ---
 
-### 📘 Modelo de KPIs – Impacto de la Automatización con IA
+### Modelo de KPIs – Impacto de la Automatización con IA
 Diseño y análisis de un modelo de indicadores clave para medir el impacto operativo y financiero de implementar automatizaciones basadas en IA en una empresa de más de 200 empleados.
 
 Incluye simulación de escenarios, cálculo de métricas, documentación del proceso y visualización en Power BI.
@@ -209,7 +209,7 @@ Incluye simulación de escenarios, cálculo de métricas, documentación del pro
 
 ---
 
-### 📘 Market Analysis with Computer Vision
+### Market Analysis with Computer Vision
 Modelo financiero y operativo para un supermercado en expansión en Madrid, evaluando el impacto de implementar Azure Vision para mejorar la eficiencia en tienda, reducir mermas y aumentar ingresos.
 
 Incluye simulación de escenarios, modelización de KPIs, análisis de palancas de mejora, documentación completa y visualizaciones del impacto económico.
@@ -220,7 +220,7 @@ Incluye simulación de escenarios, modelización de KPIs, análisis de palancas 
 
 ---
 
-### 📘 Modelo de Aprendizaje automatico (Machine Learning - IA)
+### Modelo de Aprendizaje automatico (Machine Learning - IA)
 Un sistema completo de regresión lineal para organizar, limpiar y predecir series de tiempo de forma automática.
 Incluye Organización automática, limpieza inteligente, regresión lineal, predicciones, consulta de resultados y visualización de datos.
 
@@ -230,7 +230,7 @@ Incluye Organización automática, limpieza inteligente, regresión lineal, pred
 
 ---
 
-### 📘 FIA – Finanzas con IA
+### FIA – Finanzas con IA
 Aplicación diseñada para gestionar y analizar finanzas personales mediante automatizaciones y cálculos inteligentes.
 Incluye categorización automática de gastos, visualización de métricas clave y documentación del proceso.
 
@@ -240,7 +240,7 @@ Incluye categorización automática de gastos, visualización de métricas clave
 
 ---
 
-### 📘 Análisis de Población de Valdoria
+### Análisis de Población de Valdoria
 Modelado analítico de una ciudad ficticia mediante generación de datos sintéticos, simulación demográfica y estimación económica. Enfoque BI aplicado a worldbuilding con flujos de trabajo asistidos por IA.
 El repositorio documenta todo el proceso: traducción al inglés, prompts utilizados, razonamiento matemático, generación de datasets, visualizaciones y análisis técnico paso a paso.
 
