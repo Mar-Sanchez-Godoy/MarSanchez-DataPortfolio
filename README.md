@@ -107,8 +107,16 @@ https://github.com/Mar-Sanchez-Godoy/Population_Analysis_of_Valdoria
 
 ---
 
-### 🖊️ Coming Soon: SQL Case Study
-Real-world business case solved with SQL (KPIs, joins, aggregations).
+### SQL Practice – Relational Models for Power BI
+Hands‑on SQL exercises focused on building clean datasets for Power BI dashboards.
+
+Table creation & relational modeling
+
+Data transformation and analytical queries
+
+Datasets ready for import into Power BI
+
+https://github.com/Mar-Sanchez-Godoy/SQL
 
 ---
 
