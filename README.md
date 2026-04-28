@@ -232,7 +232,7 @@ Incluye simulación de escenarios, cálculo de métricas, documentación del pro
 
 ---
 
-### Market Analysis with Computer Vision
+### Proyecto de análisis de mercado utilizando técnicas de visión por computadora.
 Modelo financiero y operativo para un supermercado en expansión en Madrid, evaluando el impacto de implementar Azure Vision para mejorar la eficiencia en tienda, reducir mermas y aumentar ingresos.
 
 Incluye simulación de escenarios, modelización de KPIs, análisis de palancas de mejora, documentación completa y visualizaciones del impacto económico.
@@ -286,7 +286,7 @@ https://github.com/Mar-Sanchez-Godoy/SQL
 
 --- 
 
-### League Player Data Analysis – Football Players Dataset
+### Análisis exploratorio y visual del rendimiento de jugadores en distintas ligas.
 Análisis exploratorio y visual del rendimiento de jugadores de distintas ligas.
 
 Limpieza y transformación del dataset
