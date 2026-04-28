@@ -112,6 +112,19 @@ Real-world business case solved with SQL (KPIs, joins, aggregations).
 
 ---
 
+### League Player Data Analysis – Football Players Dataset
+End‑to‑end exploratory analysis of player performance across multiple leagues.
+
+Data cleaning & transformation
+
+Key performance metrics (GA, minutes, age, clubs, leagues)
+
+Interactive Power BI dashboard
+
+https://github.com/Mar-Sanchez-Godoy/League-Player-Data-Analysis
+
+---
+
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/mar-sanchez-g/  
@@ -258,6 +271,19 @@ Incluye KPIs, joins, agregaciones y análisis exploratorio.
 
 **Tecnologías:** SQL  
 **Repositorio:** _próximamente_
+
+--- 
+
+### League Player Data Analysis – Football Players Dataset
+Análisis exploratorio y visual del rendimiento de jugadores de distintas ligas.
+
+Limpieza y transformación del dataset
+
+Métricas clave de rendimiento (GA, minutos, edad, clubes, ligas)
+
+Dashboard interactivo en Power BI
+
+https://github.com/Mar-Sanchez-Godoy/League-Player-Data-Analysis
 
 
 
