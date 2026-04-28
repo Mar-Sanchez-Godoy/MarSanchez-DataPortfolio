@@ -270,15 +270,19 @@ El repositorio documenta todo el proceso: traducción al inglés, prompts utiliz
 **Tecnologías:** ChatGPT, Copilot.
 **Repositorio:** https://github.com/Mar-Sanchez-Godoy/Population_Analysis_of_Valdoria
 
+---
 
 
+### Práctica SQL – Modelos Relacionales para Power BI
+Ejercicios SQL diseñados para crear datasets limpios y listos para dashboards en Power BI.
 
-### 🖊️ **PROXIMAMENTE: SQL Case Study – Consultas analíticas**
-Conjunto de consultas SQL aplicadas a un caso realista de negocio.  
-Incluye KPIs, joins, agregaciones y análisis exploratorio.
+Creación de tablas y modelado relacional
 
-**Tecnologías:** SQL  
-**Repositorio:** _próximamente_
+Consultas analíticas y transformación de datos
+
+Datasets preparados para importar en Power BI
+
+https://github.com/Mar-Sanchez-Godoy/SQL
 
 --- 
 
