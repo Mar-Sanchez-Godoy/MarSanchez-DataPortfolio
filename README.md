@@ -1,5 +1,5 @@
 # Hi, I'm Mar Sánchez  
-### Business Analytics | AI | BA
+### Business Analytics | AI 
 
 I help businesses **turn data into decisions**.  
 Specialized in **data analysis, business intelligence, and AI-driven insights**, with a strong focus on **real-world impact and efficiency improvements**.
