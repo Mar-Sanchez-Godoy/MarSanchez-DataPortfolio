@@ -1,4 +1,4 @@
-# Hi, I'm Mar Sánchez 🧑‍💻  
+# Hi, I'm Mar Sánchez  
 ### Data Analyst | Business Analytics | AI & BI
 
 I help businesses **turn data into decisions**.  
@@ -161,7 +161,7 @@ Each project includes:
 # CASTELLANO 
 
 
-# Hola, soy Mar Sánchez 🧑‍💻
+# Hola, soy Mar Sánchez
 
 ## Analista de Datos con experiencia en análisis de negocios. ##
 
