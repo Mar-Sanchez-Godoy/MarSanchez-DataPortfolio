@@ -20,16 +20,16 @@ Specialized in **data analysis, business intelligence, and AI-driven insights**,
 
 ## Tech Stack
 [![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?logo=google&logoColor=white)](https://workspace.google.com/)
-Workflow optimization (light ETL), simple automation, and efficient graphical dashboards.
+Workflows, simple automation, and efficient graphical dashboards.
 
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-Power BI (cleaning, DAX, Data Modeling), decision‑support charts.
+Power BI (cleaning, Data Modeling), decision‑support charts.
 
 [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
 Pivot tables, analysis, and model prototyping.
 
 [![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-Cloud‑based AI implementation applied to statistical analysis and forecasting.
+Cloud‑based AI implementation.
 
 [![SQL](https://img.shields.io/badge/SQL-CC2927?logo=databricks&logoColor=white)](https://www.mysql.com/)
 Queries, relational modeling, and exploratory analysis.
