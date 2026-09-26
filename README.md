@@ -19,8 +19,6 @@ Utilizo herramientas como Power BI, SQL, Google Workspace, Microsoft 365 y Azure
 - Construcción y seguimiento de KPIs para medir rendimiento y evolución del negocio.
 - Pensamiento analítico + visión de negocio, combinando datos con contexto para identificar oportunidades y mejoras.
 
---
-
 
 ## Tecnologías y herramientas
 
