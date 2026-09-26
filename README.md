@@ -23,10 +23,10 @@ Utilizo herramientas como Power BI, SQL, Google Workspace, Microsoft 365 y Azure
 ## Tecnologías y herramientas
 
 [![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?logo=google&logoColor=white)](https://workspace.google.com/)
-Optimización de flujos de trabajo (ETL ligera), automatización simple y dashboards gráficos eficientes.
+Optimización de flujos de trabajo (ETL), automatización y dashboards gráficos.
 
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-Power Query, Limpieza, modelado de datos, DAX, gráficos para apoyo de decisiones.
+Gráficos para apoyo de decisiones. Power Query, limpieza, modelado de datos, DAX. 
 
 [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
 Tablas dinámicas, análisis y prototipado de modelos.
@@ -35,10 +35,10 @@ Tablas dinámicas, análisis y prototipado de modelos.
 Uso de servicios de IA en la nube para análisis, automatización y desarrollo de soluciones orientadas al negocio.
 
 [![SQL](https://img.shields.io/badge/SQL-CC2927?logo=databricks&logoColor=white)](https://www.mysql.com/)
-Consultas, modelado relacional y análisis exploratorio.
+Consultas, modelado relacional y análisis exploratorio. MySQL y PostgreSQL.
 
-[![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?logo=google&logoColor=white)](https://lookerstudio.google.com/)
-Informes y documentación visual.
+[![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?logo=google&logoColor=white)](https://aistudio.google.com/)
+Aplicaciones de automatización. Informes y documentación visual.
 
 
 ## Proyectos 
