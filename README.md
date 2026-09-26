@@ -2,9 +2,11 @@
 
 ## Analista financiero con experiencia en análisis de negocios y datos. ##
 
+### Financial Analysis | Business Analytics | Data Analytics
+
 Este portafolio reúne algunos de mis proyectos personales de análisis, visualización y modelado de datos.
 
-Utilizo herramientas como Power BI, SQL, Google Workspace, Microsoft 365 y Azure.  Me especializo en transformar datos en insights claros para apoyar la toma de decisiones.
+Utilizo herramientas como Power BI, SQL, Google Workspace, Microsoft 365 y Azure.  Transformo datos e información financiera en insights claros para apoyar la toma de decisiones.
 
 📍 Ubicado en Madrid | Abierto a oportunidades
 
@@ -20,8 +22,6 @@ Construir KPIs y dashboards alineados con objetivos estratégicos
 
 Mentalidad analítica sólida + comprensión del negocio
 
-Aprendizaje rápido, enfocado en entregar valor desde el primer día
-
 --
 
 
@@ -31,13 +31,13 @@ Aprendizaje rápido, enfocado en entregar valor desde el primer día
 Optimización de flujos de trabajo (ETL ligera), automatización simple y dashboards gráficos eficientes.
 
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-Limpieza, modelado de datos, DAX, gráficos para apoyo de decisiones.
+Power Query, Limpieza, modelado de datos, DAX, gráficos para apoyo de decisiones.
 
 [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
 Tablas dinámicas, análisis y prototipado de modelos.
 
 [![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-Implementación de IA en la nube, aplicados a análisis estadísticos y proyecciones.
+Uso de servicios de IA en la nube para análisis, automatización y desarrollo de soluciones orientadas al negocio.
 
 [![SQL](https://img.shields.io/badge/SQL-CC2927?logo=databricks&logoColor=white)](https://www.mysql.com/)
 Consultas, modelado relacional y análisis exploratorio.
@@ -48,15 +48,6 @@ Informes y documentación visual.
 
 ## Proyectos 
 
-### Análisis de precios de propiedades en Madrid
-Exploración y visualización del mercado inmobiliario madrileño.  
-Incluye limpieza de datos, modelado en Power BI y documentación.
-
-**Tecnologías:** Power BI, Power qwery,  DAX, Google Sheets.
-
-**Repositorio:** https://github.com/Mar-Sanchez-Godoy/Real-Estate-Madrid-Analysis
-
----
 
 ### Modelo de KPIs – Impacto de la Automatización con IA
 Diseño y análisis de un modelo de indicadores clave para medir el impacto operativo y financiero de implementar automatizaciones basadas en IA en una empresa de más de 200 empleados.
@@ -66,6 +57,16 @@ Incluye simulación de escenarios, cálculo de métricas, documentación del pro
 **Tecnologías:** Power BI, Power Query, DAX, Google Sheets
 
 **Repositorio:** https://github.com/Mar-Sanchez-Godoy/Modelo-KPIs
+
+---
+
+### FIA – Finanzas con IA
+Aplicación diseñada para gestionar y analizar finanzas personales mediante automatizaciones y cálculos inteligentes.
+Incluye categorización automática de gastos, visualización de métricas clave y documentación del proceso.
+
+**Tecnologías:** Google AI Studio
+
+**Repositorio:** https://github.com/Mar-Sanchez-Godoy/Fia---Finanzas-IA
 
 ---
 
@@ -80,6 +81,16 @@ Incluye simulación de escenarios, modelización de KPIs, análisis de palancas 
 
 ---
 
+### Análisis de precios de propiedades en Madrid
+Exploración y visualización del mercado inmobiliario madrileño.  
+Incluye limpieza de datos, modelado en Power BI y documentación.
+
+**Tecnologías:** Power BI, Power Qwery,  DAX, Google Sheets.
+
+**Repositorio:** https://github.com/Mar-Sanchez-Godoy/Real-Estate-Madrid-Analysis
+
+---
+
 ### Modelo de Aprendizaje automatico (Machine Learning - IA)
 Un sistema completo de regresión lineal para organizar, limpiar y predecir series de tiempo de forma automática.
 Incluye Organización automática, limpieza inteligente, regresión lineal, predicciones, consulta de resultados y visualización de datos.
@@ -88,15 +99,6 @@ Incluye Organización automática, limpieza inteligente, regresión lineal, pred
 
 **Repositorio:** https://github.com/Mar-Sanchez-Godoy/linear-regression
 
----
-
-### FIA – Finanzas con IA
-Aplicación diseñada para gestionar y analizar finanzas personales mediante automatizaciones y cálculos inteligentes.
-Incluye categorización automática de gastos, visualización de métricas clave y documentación del proceso.
-
-**Tecnologías:** Google AI Studio
-
-**Repositorio:** https://github.com/Mar-Sanchez-Godoy/Fia---Finanzas-IA
 
 ---
 
@@ -133,8 +135,6 @@ Métricas clave de rendimiento (GA, minutos, edad, clubes, ligas)
 Dashboard interactivo en Power BI
 
 https://github.com/Mar-Sanchez-Godoy/League-Player-Data-Analysis
-
-
 
 ---
 
