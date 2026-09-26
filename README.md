@@ -49,7 +49,7 @@ Diseño y análisis de un modelo de indicadores clave para medir el impacto oper
 
 Incluye simulación de escenarios, cálculo de métricas, documentación del proceso y visualización en Power BI.
 
-**Tecnologías:** Power BI, Power Query, DAX, Google Sheets
+**Tecnologías:** Power BI, Power Query, DAX, Google Sheets.
 
 **Repositorio:** https://github.com/Mar-Sanchez-Godoy/Modelo-KPIs
 
@@ -57,7 +57,7 @@ Incluye simulación de escenarios, cálculo de métricas, documentación del pro
 
 ### FIA – Finanzas con IA
 Aplicación diseñada para gestionar y analizar finanzas personales mediante automatizaciones y cálculos inteligentes.
-Incluye categorización automática de gastos, visualización de métricas clave y documentación del proceso.
+Incluye categorización gastos, visualización de métricas clave y documentación del proceso.
 
 **Tecnologías:** Google AI Studio
 
