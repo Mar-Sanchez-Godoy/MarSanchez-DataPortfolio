@@ -14,13 +14,10 @@ Utilizo herramientas como Power BI, SQL, Google Workspace, Microsoft 365 y Azure
 
 ## Lo que Aporto
 
-Transformar datos en bruto en insights accionables para el negocio
-
-Aplicar IA y automatización para mejorar la eficiencia operativa
-
-Construir KPIs y dashboards alineados con objetivos estratégicos
-
-Mentalidad analítica sólida + comprensión del negocio
+- Análisis financiero y de negocio para entender resultados, detectar desviaciones y apoyar la toma de decisiones.
+- Análisis de datos y reporting utilizando Excel, Power BI y SQL.
+- Construcción y seguimiento de KPIs para medir rendimiento y evolución del negocio.
+- Pensamiento analítico + visión de negocio, combinando datos con contexto para identificar oportunidades y mejoras.
 
 --
 
