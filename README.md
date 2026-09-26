@@ -1,3 +1,161 @@
+# Hola, soy Mar Sánchez
+
+## Analista financiero con experiencia en análisis de negocios y datos. ##
+
+Este portafolio reúne algunos de mis proyectos personales de análisis, visualización y modelado de datos.
+
+Utilizo herramientas como Power BI, SQL, Google Workspace, Microsoft 365 y Azure.  Me especializo en transformar datos en insights claros para apoyar la toma de decisiones.
+
+📍 Ubicado en Madrid | Abierto a oportunidades
+
+---
+
+## Lo que Aporto
+
+Transformar datos en bruto en insights accionables para el negocio
+
+Aplicar IA y automatización para mejorar la eficiencia operativa
+
+Construir KPIs y dashboards alineados con objetivos estratégicos
+
+Mentalidad analítica sólida + comprensión del negocio
+
+Aprendizaje rápido, enfocado en entregar valor desde el primer día
+
+--
+
+
+## Tecnologías y herramientas
+
+[![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?logo=google&logoColor=white)](https://workspace.google.com/)
+Optimización de flujos de trabajo (ETL ligera), automatización simple y dashboards gráficos eficientes.
+
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+Limpieza, modelado de datos, DAX, gráficos para apoyo de decisiones.
+
+[![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+Tablas dinámicas, análisis y prototipado de modelos.
+
+[![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+Implementación de IA en la nube, aplicados a análisis estadísticos y proyecciones.
+
+[![SQL](https://img.shields.io/badge/SQL-CC2927?logo=databricks&logoColor=white)](https://www.mysql.com/)
+Consultas, modelado relacional y análisis exploratorio.
+
+[![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?logo=google&logoColor=white)](https://lookerstudio.google.com/)
+Informes y documentación visual.
+
+
+## Proyectos 
+
+### Análisis de precios de propiedades en Madrid
+Exploración y visualización del mercado inmobiliario madrileño.  
+Incluye limpieza de datos, modelado en Power BI y documentación.
+
+**Tecnologías:** Power BI, Power qwery,  DAX, Google Sheets.
+
+**Repositorio:** https://github.com/Mar-Sanchez-Godoy/Real-Estate-Madrid-Analysis
+
+---
+
+### Modelo de KPIs – Impacto de la Automatización con IA
+Diseño y análisis de un modelo de indicadores clave para medir el impacto operativo y financiero de implementar automatizaciones basadas en IA en una empresa de más de 200 empleados.
+
+Incluye simulación de escenarios, cálculo de métricas, documentación del proceso y visualización en Power BI.
+
+**Tecnologías:** Power BI, Power Query, DAX, Google Sheets
+
+**Repositorio:** https://github.com/Mar-Sanchez-Godoy/Modelo-KPIs
+
+---
+
+### Proyecto de análisis de mercado utilizando técnicas de visión por computadora.
+Modelo financiero y operativo para un supermercado en expansión en Madrid, evaluando el impacto de implementar Azure Vision para mejorar la eficiencia en tienda, reducir mermas y aumentar ingresos.
+
+Incluye simulación de escenarios, modelización de KPIs, análisis de palancas de mejora, documentación completa y visualizaciones del impacto económico.
+
+**Tecnologías:** Google Sheets, Azure Vision (Computer Vision), Microsoft Copilot, Modelización financiera.
+
+**Repositorio:** https://github.com/Mar-Sanchez-Godoy/Market-analisis-with-Computer-Vision
+
+---
+
+### Modelo de Aprendizaje automatico (Machine Learning - IA)
+Un sistema completo de regresión lineal para organizar, limpiar y predecir series de tiempo de forma automática.
+Incluye Organización automática, limpieza inteligente, regresión lineal, predicciones, consulta de resultados y visualización de datos.
+
+**Tecnologias:** Agent Github, Claude Haiku 4.5, Python 3.8+, pandas, numpy, scikit-learn, matplotlib.
+
+**Repositorio:** https://github.com/Mar-Sanchez-Godoy/linear-regression
+
+---
+
+### FIA – Finanzas con IA
+Aplicación diseñada para gestionar y analizar finanzas personales mediante automatizaciones y cálculos inteligentes.
+Incluye categorización automática de gastos, visualización de métricas clave y documentación del proceso.
+
+**Tecnologías:** Google AI Studio
+
+**Repositorio:** https://github.com/Mar-Sanchez-Godoy/Fia---Finanzas-IA
+
+---
+
+### Análisis de Población de Valdoria
+Modelado analítico de una ciudad ficticia mediante generación de datos sintéticos, simulación demográfica y estimación económica. Enfoque BI aplicado a worldbuilding con flujos de trabajo asistidos por IA.
+El repositorio documenta todo el proceso: traducción al inglés, prompts utilizados, razonamiento matemático, generación de datasets, visualizaciones y análisis técnico paso a paso.
+
+**Tecnologías:** ChatGPT, Copilot.
+**Repositorio:** https://github.com/Mar-Sanchez-Godoy/Population_Analysis_of_Valdoria
+
+---
+
+
+### Práctica SQL – Modelos Relacionales para Power BI
+Ejercicios SQL diseñados para crear datasets limpios y listos para dashboards en Power BI.
+
+Creación de tablas y modelado relacional
+
+Consultas analíticas y transformación de datos
+
+Datasets preparados para importar en Power BI
+
+https://github.com/Mar-Sanchez-Godoy/SQL
+
+--- 
+
+### Análisis exploratorio y visual del rendimiento de jugadores en distintas ligas.
+Análisis exploratorio y visual del rendimiento de jugadores de distintas ligas.
+
+Limpieza y transformación del dataset
+
+Métricas clave de rendimiento (GA, minutos, edad, clubes, ligas)
+
+Dashboard interactivo en Power BI
+
+https://github.com/Mar-Sanchez-Godoy/League-Player-Data-Analysis
+
+
+
+---
+
+## 📫 Contacto
+
+- **LinkedIn:** https://www.linkedin.com/in/mar-sanchez-g/
+- **Email:** marsanchez095@gmail.com
+
+---
+
+### Sobre este portafolio
+Mi objetivo es mostrar proyectos claros, reproducibles y orientados a negocio.  
+Cada repositorio incluye dataset, documentación y visualizaciones.
+
+*Actualmente en búsqueda de roles como analista financiero, de negocios y datos en Madrid — listo para aportar desde el primer día.*
+
+
+
+# ENGLISH
+
+
 # Hi, I'm Mar Sánchez  
 ### Business Analysis | AI 
 
@@ -152,164 +310,7 @@ Each project includes:
 
 ---
 
-*Currently seeking Data Analyst / BI roles in Madrid — ready to contribute from day one.*
+*Currently seeking Financial Analyst / BI roles in Madrid — ready to contribute from day one.*
 
 -- 
 
-
-
-# CASTELLANO 
-
-
-# Hola, soy Mar Sánchez
-
-## Analista de Datos con experiencia en análisis de negocios. ##
-
-Este portafolio reúne algunos de mis proyectos personales de análisis, visualización y modelado de datos.
-
-Utilizo herramientas como Power BI, SQL, Google Workspace, Microsoft 365 y Azure.  Me especializo en transformar datos en insights claros para apoyar la toma de decisiones.
-
-📍 Ubicado en Madrid | Abierto a oportunidades
-
----
-
-## Lo que Aporto
-
-Transformar datos en bruto en insights accionables para el negocio
-
-Aplicar IA y automatización para mejorar la eficiencia operativa
-
-Construir KPIs y dashboards alineados con objetivos estratégicos
-
-Mentalidad analítica sólida + comprensión del negocio
-
-Aprendizaje rápido, enfocado en entregar valor desde el primer día
-
---
-
-
-## Tecnologías y herramientas
-
-[![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?logo=google&logoColor=white)](https://workspace.google.com/)
-Optimización de flujos de trabajo (ETL ligera), automatización simple y dashboards gráficos eficientes.
-
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-Limpieza, modelado de datos, DAX, gráficos para apoyo de decisiones.
-
-[![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
-Tablas dinámicas, análisis y prototipado de modelos.
-
-[![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-Implementación de IA en la nube, aplicados a análisis estadísticos y proyecciones.
-
-[![SQL](https://img.shields.io/badge/SQL-CC2927?logo=databricks&logoColor=white)](https://www.mysql.com/)
-Consultas, modelado relacional y análisis exploratorio.
-
-[![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?logo=google&logoColor=white)](https://lookerstudio.google.com/)
-Informes y documentación visual.
-
-
-## Proyectos 
-
-### Análisis de precios de propiedades en Madrid
-Exploración y visualización del mercado inmobiliario madrileño.  
-Incluye limpieza de datos, modelado en Power BI y documentación.
-
-**Tecnologías:** Power BI, Power qwery,  DAX, Google Sheets.
-
-**Repositorio:** https://github.com/Mar-Sanchez-Godoy/Real-Estate-Madrid-Analysis
-
----
-
-### Modelo de KPIs – Impacto de la Automatización con IA
-Diseño y análisis de un modelo de indicadores clave para medir el impacto operativo y financiero de implementar automatizaciones basadas en IA en una empresa de más de 200 empleados.
-
-Incluye simulación de escenarios, cálculo de métricas, documentación del proceso y visualización en Power BI.
-
-**Tecnologías:** Power BI, Power Query, DAX, Google Sheets
-
-**Repositorio:** https://github.com/Mar-Sanchez-Godoy/Modelo-KPIs
-
----
-
-### Proyecto de análisis de mercado utilizando técnicas de visión por computadora.
-Modelo financiero y operativo para un supermercado en expansión en Madrid, evaluando el impacto de implementar Azure Vision para mejorar la eficiencia en tienda, reducir mermas y aumentar ingresos.
-
-Incluye simulación de escenarios, modelización de KPIs, análisis de palancas de mejora, documentación completa y visualizaciones del impacto económico.
-
-**Tecnologías:** Google Sheets, Azure Vision (Computer Vision), Microsoft Copilot, Modelización financiera.
-
-**Repositorio:** https://github.com/Mar-Sanchez-Godoy/Market-analisis-with-Computer-Vision
-
----
-
-### Modelo de Aprendizaje automatico (Machine Learning - IA)
-Un sistema completo de regresión lineal para organizar, limpiar y predecir series de tiempo de forma automática.
-Incluye Organización automática, limpieza inteligente, regresión lineal, predicciones, consulta de resultados y visualización de datos.
-
-**Tecnologias:** Agent Github, Claude Haiku 4.5, Python 3.8+, pandas, numpy, scikit-learn, matplotlib.
-
-**Repositorio:** https://github.com/Mar-Sanchez-Godoy/linear-regression
-
----
-
-### FIA – Finanzas con IA
-Aplicación diseñada para gestionar y analizar finanzas personales mediante automatizaciones y cálculos inteligentes.
-Incluye categorización automática de gastos, visualización de métricas clave y documentación del proceso.
-
-**Tecnologías:** Google AI Studio
-
-**Repositorio:** https://github.com/Mar-Sanchez-Godoy/Fia---Finanzas-IA
-
----
-
-### Análisis de Población de Valdoria
-Modelado analítico de una ciudad ficticia mediante generación de datos sintéticos, simulación demográfica y estimación económica. Enfoque BI aplicado a worldbuilding con flujos de trabajo asistidos por IA.
-El repositorio documenta todo el proceso: traducción al inglés, prompts utilizados, razonamiento matemático, generación de datasets, visualizaciones y análisis técnico paso a paso.
-
-**Tecnologías:** ChatGPT, Copilot.
-**Repositorio:** https://github.com/Mar-Sanchez-Godoy/Population_Analysis_of_Valdoria
-
----
-
-
-### Práctica SQL – Modelos Relacionales para Power BI
-Ejercicios SQL diseñados para crear datasets limpios y listos para dashboards en Power BI.
-
-Creación de tablas y modelado relacional
-
-Consultas analíticas y transformación de datos
-
-Datasets preparados para importar en Power BI
-
-https://github.com/Mar-Sanchez-Godoy/SQL
-
---- 
-
-### Análisis exploratorio y visual del rendimiento de jugadores en distintas ligas.
-Análisis exploratorio y visual del rendimiento de jugadores de distintas ligas.
-
-Limpieza y transformación del dataset
-
-Métricas clave de rendimiento (GA, minutos, edad, clubes, ligas)
-
-Dashboard interactivo en Power BI
-
-https://github.com/Mar-Sanchez-Godoy/League-Player-Data-Analysis
-
-
-
----
-
-## 📫 Contacto
-
-- **LinkedIn:** https://www.linkedin.com/in/mar-sanchez-g/
-- **Email:** marsanchez095@gmail.com
-
----
-
-### Sobre este portafolio
-Mi objetivo es mostrar proyectos claros, reproducibles y orientados a negocio.  
-Cada repositorio incluye dataset, documentación y visualizaciones.
-
-*Actualmente en búsqueda de roles como Data Analyst / BI en Madrid — listo para aportar desde el primer día.*
