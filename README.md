@@ -40,6 +40,8 @@ Consultas, modelado relacional y análisis exploratorio. MySQL y PostgreSQL.
 [![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?logo=google&logoColor=white)](https://aistudio.google.com/)
 Aplicaciones de automatización. Informes y documentación visual.
 
+[![GitHub Agent](https://img.shields.io/badge/GitHub_Agent-181717?logo=github&logoColor=white)](https://github.com/)
+Desarrollo y documentación de proyectos con apoyo de IA.
 
 ## Proyectos 
 
