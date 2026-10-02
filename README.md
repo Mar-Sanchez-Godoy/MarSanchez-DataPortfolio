@@ -1,5 +1,5 @@
 # Hi, I'm Mar Sánchez  
-### Business Analysis | AI 
+### Financial Analyst | Business & Data Analytics | Financial Planning | Commercial Development and Sales Strategy
 
 I help businesses **turn data into decisions**.  
 Specialized in **data analysis, business intelligence, and AI-driven insights**, with a strong focus on **real-world impact and efficiency improvements**.
@@ -52,14 +52,14 @@ https://github.com/Mar-Sanchez-Godoy/Real-Estate-Price-Analysis-Madrid
 
 ---
 
-### KPI Model – AI Automation Impact
+### AI Automation Business Impact – Azure & KPI Model
 Business-focused KPI system to evaluate **ROI and operational impact of AI automation**.
 
 - Scenario simulation  
 - Cost-benefit analysis  
 - Executive-level dashboard  
 
-https://github.com/Mar-Sanchez-Godoy/Modelo-KPIs
+https://github.com/Mar-Sanchez-Godoy/AI-Automation-Business-Impact---Azure-KPI-Model
 
 ---
 
