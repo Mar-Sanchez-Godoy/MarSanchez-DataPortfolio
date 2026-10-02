@@ -75,13 +75,13 @@ https://github.com/Mar-Sanchez-Godoy/Market-analisis-with-Computer-Vision
 ---
 
 ### Machine Learning System – Time Series Prediction
-Automated pipeline for **data cleaning + prediction (Linear Regression)**.
+A complete linear regression system to automatically organize, clean, and predict time series data. **Prediction (Linear Regression)**.
 
 - End-to-end ML workflow  
 - Data preprocessing automation  
 - Predictive analytics  
 
-https://github.com/Mar-Sanchez-Godoy/linear-regression
+https://github.com/Mar-Sanchez-Godoy/GitHub-Agent-Trial-Automated-linear-regression
 
 ---
 
