@@ -74,17 +74,6 @@ https://github.com/Mar-Sanchez-Godoy/Market-analisis-with-Computer-Vision
 
 ---
 
-### Machine Learning System – Time Series Prediction
-A complete linear regression system to automatically organize, clean, and predict time series data. **Prediction (Linear Regression)**.
-
-- End-to-end ML workflow  
-- Data preprocessing automation  
-- Predictive analytics  
-
-https://github.com/Mar-Sanchez-Godoy/GitHub-Agent-Trial-Automated-linear-regression
-
----
-
 ### FIA – AI Personal Finance App
 Smart system for **automated financial tracking and insights**.
 
@@ -93,6 +82,17 @@ Smart system for **automated financial tracking and insights**.
 - Process automation  
 
 https://github.com/Mar-Sanchez-Godoy/Fia---Finanzas-IA
+
+---
+
+### Machine Learning System – Time Series Prediction
+A complete linear regression system to automatically organize, clean, and predict time series data. **Prediction (Linear Regression)**.
+
+- End-to-end ML workflow  
+- Data preprocessing automation  
+- Predictive analytics  
+
+https://github.com/Mar-Sanchez-Godoy/GitHub-Agent-Trial-Automated-linear-regression
 
 ---
 
