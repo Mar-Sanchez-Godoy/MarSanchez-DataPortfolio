@@ -57,7 +57,7 @@ Business-focused KPI system to evaluate **ROI and operational impact of AI autom
 
 - Scenario simulation  
 - Cost-benefit analysis  
-- Executive-level dashboard  
+- Excel dashboard  
 
 https://github.com/Mar-Sanchez-Godoy/AI-Automation-Business-Impact---Azure-KPI-Model
 
