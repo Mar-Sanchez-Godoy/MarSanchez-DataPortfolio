@@ -1,8 +1,8 @@
 # Hi, I'm Mar Sánchez  
 ### Financial Analyst | Business & Data Analytics | Financial Planning | Commercial Development and Sales Strategy
 
-I help businesses **turn data into decisions**.  
-Specialized in **financial data analysis, business intelligence, and AI-driven insights**, with a strong focus on **real-world impact and efficiency improvements**.
+I help businesses turn data into decisions. 
+Specialized in financial data analysis, business intelligence, and AI-driven insights**, with a strong focus on **real-world impact and efficiency improvements.
 
 📍 Based in Madrid | Open to opportunities
 
