@@ -52,7 +52,7 @@ https://github.com/Mar-Sanchez-Godoy/Real-Estate-Price-Analysis-Madrid
 
 ---
 
-### Analysis - AI Automation Business Impact – Azure & KPI Model
+### AI Automation Business Impact – Azure & KPI Model
 Business-focused KPI system to evaluate **ROI and operational impact of AI automation**.
 
 - Scenario simulation  
